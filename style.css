@@ -406,13 +406,11 @@ li a:hover{
 }
 .boxcontwo{
 	width: 100%;
+	padding: 200px 0px;
 	display: block;
     background: #40E0D0;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-	padding-bottom: 150px;
-	padding-top: 150px;
 	-webkit-clip-path: polygon(0 0, 100% 13%, 100% 100%, 0 89%);
      clip-path: polygon(0 0, 100% 13%, 100% 100%, 0 89%);
 }
